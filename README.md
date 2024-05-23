@@ -91,5 +91,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Special thanks to the Unity community for their continuous support and contributions to making development tools like this possible.
 
 ---
-
-Feel free to customize this README as needed for your project. Happy coding!
